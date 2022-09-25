@@ -103,3 +103,5 @@ let third = "и женщина из полумрака";
 console.log(third);
 let fourth = "глазами зыбкими глядит.";
 console.log(fourth);
+
+//10
