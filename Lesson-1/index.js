@@ -95,13 +95,26 @@ console.log(x2);
 //x+2x+ax+bx=23780.
 
 //9
-let first = "Бывало, спит у ног собака, ";
-console.log(first);
-let second = "костер занявшийся гудит,";
-console.log(second);
-let third = "и женщина из полумрака";
-console.log(third);
-let fourth = "глазами зыбкими глядит.";
-console.log(fourth);
+console.log("");
+console.log("Бывало, спит у ног собака,");
+console.log("костер занявшийся гудит,");
+console.log("и женщина из полумрака");
+console.log("глазами зыбкими глядит.");
+console.log("");
+console.log("Потом под пихтою приляжет");
+console.log("на куртку рыжую мою");
+console.log("и мне, задумчивая, скажет:");
+console.log("");
+console.log('"А ну-ка, спой!.." - и я пою.');
 
 //10
+let text1 = "индо земля зашаталась под ногами-и вырос,";
+let text2 = "и заревел он голосом диким…";
+let text3 = "блеснула молния и ударил гром,";
+let text4 = "а так какое-то чудище, страшное и мохнатое,";
+let text5 = "как будто из-под земли, перед купцом:";
+let text6 = "Он подошёл и сорвал аленький цветочек.";
+let text7 = "зверь не зверь, человек не человек,";
+let text8 = "В ту же минуту, безо всяких туч,";
+console.log("");
+console.log(text6, text8, text3, text5, text1, text7, text4, text6);
