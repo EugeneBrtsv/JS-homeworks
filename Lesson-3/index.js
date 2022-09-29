@@ -42,3 +42,28 @@ while (f <= 56) {
 }
 
 //6
+let r;
+
+for (i = 2; i <= 10; i++) {
+  for (j = 1; j <= 10; j++) {
+    r = i * j;
+    document.write(i, "*", j, "=", r, "<br />");
+  }
+  document.write("<br />");
+}
+
+//7
+let n = 1000;
+let num = 0;
+
+while (n / 2 >= 50) {
+  n = n / 2;
+  num++;
+}
+console.log("Число", n, "Итераций", num);
+
+//8
+
+//9
+
+//10
